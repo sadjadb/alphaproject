@@ -1,3 +1,6 @@
 # alphaproject
 A silly project to practice git
-The project began on January 12, 2026.
+
+In this project I work with fork, its differences with repository clone and,
+how to implement that.
+We go forward step by step.
