@@ -1,0 +1,5 @@
+id|      name     |    number   |
+--+---------------+-------------+
+01|Sadjad Bahari  |9107070689   |
+02|Nasrin Yousefpu|9397171989   |
+03|Solmaz Bahari  |0917241353   |
